@@ -97,11 +97,10 @@ export default function Home() {
         >
           <div className="absolute inset-0 bg-primary/20 blur-3xl rounded-full scale-150 animate-pulse" />
           <div className="relative border-[12px] border-white dark:border-muted rounded-[3rem] overflow-hidden shadow-2xl rotate-3 hover:rotate-0 transition-transform duration-500 max-w-sm mx-auto">
-             <img 
-               src="/photo1.jpg" 
-               alt="Tanatswa" 
+             <img
+               src="/photo1.jpg"
+               alt="Tanatswa"
                className="w-full aspect-[4/5] object-cover"
-               referrerPolicy="no-referrer"
              />
           </div>
         </motion.div>
